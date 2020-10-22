@@ -4,9 +4,9 @@
  * @Author: jiaweiwei
  * @Date: 2020-10-22 15:37:56
 -->
-<svg xmlns="http://www.w3.org/2000/svg" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" fill="none">
   <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0" y="0" rx="4.5" height="99%" stroke="#E4E2E2" width="399" fill="#fffefe" stroke-opacity="1"/>
-  <style type="text/css">
+  <style>
     div.title {
       width: 100%;
     }
@@ -26,10 +26,12 @@
       font-weight: bold;
     }
   </style>
-  <div class="title">
-    <div class="bg">
-      <div class="info">HEY，I'M JIA</div>
+  <g>
+    <div class="title">
+      <div class="bg">
+        <div class="info">HEY，I'M JIA</div>
+      </div>
     </div>
-  </div>
+  </g>
 </svg>
 

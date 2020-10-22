@@ -4,7 +4,7 @@
  * @Author: jiaweiwei
  * @Date: 2020-10-22 15:37:56
 -->
-<style lang="sass" type="text/css">
+<style type="text/css">
   div.title {
     width: 100%;
   }

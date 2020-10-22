@@ -4,7 +4,7 @@
  * @Author: jiaweiwei
  * @Date: 2020-10-22 15:37:56
 -->
-<svg>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none">
   <style type="text/css">
     div.title {
       width: 100%;
